@@ -2,7 +2,6 @@
 
 **Stake $BASED. Pulse Daily. Maximize APY.**
 
-A hyper-minimalist DeFi staking protocol on Base blockchain, optimized for the [Talent Protocol Top Base Builders December 2025 campaign](https://talentprotocol.com). Turn passive yield into active daily engagement with "Proof of Pulse" mechanics.
 
 ---
 
