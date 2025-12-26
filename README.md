@@ -683,9 +683,8 @@ Let's build. [your-domain.com]
 ## 🤝 **Support & Resources**
 
 - **Base Discord:** [base.org/discord](https://base.org/discord)
-- **Talent Protocol:** [talentprotocol.com](https://talentprotocol.com)
 - **Farcaster:** [docs.farcaster.xyz](https://docs.farcaster.xyz)
-- **Issues:** [GitHub Issues](github.com/yourrepo/issues)
+- **Issues:** [GitHub Issues](github.com/0xBasedApp/issues)
 
 ---
 
@@ -812,14 +811,6 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-## 🔗 **Links**
-
-- **Live App:** [Coming Soon]
-- **GitHub:** [This Repo]
-- **Farcaster:** [@basedstake]
-- **X/Twitter:** [@0xbasedapp]
-- **Talent Protocol:** [Your Profile]
-- **Base:** [base.org](https://base.org)
 
 ---
 
