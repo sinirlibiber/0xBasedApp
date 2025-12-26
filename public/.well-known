@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMzNTMzNCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDQ0ODRmQkM0Y2I5NzI0NjYyMDc1YjNhNzJkMjM2ODc3RDc2ZTc1YjIifQ",
+    "payload": "eyJkb21haW4iOiJlcXVhbC10aW4tMDk3LmFwcC5vaGFyYS5haSJ9",
+    "signature": "O9pxMPucUTB7EpIlCcSWKXfdfn7j3z+H8VR/0vUGmeMbruFm0pt3wZJ8ZmR8WGFz7dXmd8b4KWSc0fL+YriDzhs="
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "0xBasedApp - The Pulse of the Chain",
+    "iconUrl": "https://i.imgur.com/placeholder.png",
+    "splashImageUrl": "https://i.imgur.com/placeholder-splash.png",
+    "splashBackgroundColor": "#0052FF",
+    "homeUrl": "https://0xbasedapp.com",
+    "webhookUrl": "https://0xbasedapp.com/api/webhook"
+  }
+}
